@@ -1,2 +1,2 @@
 # tierum
-gogo
+na
